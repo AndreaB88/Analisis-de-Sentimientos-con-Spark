@@ -10,7 +10,7 @@ El análisis de sentimientos es una herramienta poderosa para las aerolíneas, y
 
 ## Estructura de los Datos
 
-El conjunto de datos, descargado de Kaggle, contiene opiniones y calificaciones de los pasajeros sobre los vuelos de Ryanair desde 2012 hasta 2024. Este dataset incluye 21 columnas y 2249 registros, representando una revisión detallada de la experiencia del pasajero.
+El conjunto de datos, descargado de Kaggle, contiene opiniones y calificaciones de los pasajeros sobre los vuelos de Ryanair desde 2012 hasta 2024, fue fue recopilado mediante técnicas de web scraping del sitio AirlineQuality.com. Este dataset incluye 21 columnas y 2249 registros, representando una revisión detallada de la experiencia del pasajero.
 
 ## Objetivos del Proyecto
 
