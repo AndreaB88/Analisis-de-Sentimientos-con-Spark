@@ -77,6 +77,3 @@ El modelo de Naive Bayes demostró ser el más eficaz, con un rendimiento consis
 
 Este proyecto ha demostrado el valor del análisis de sentimientos en la comprensión de la percepción del cliente y ha proporcionado un marco práctico para la implementación de mejoras continuas. Con una implementación adecuada de las recomendaciones y una adaptación proactiva a las necesidades y expectativas de los pasajeros, la aerolínea puede mejorar significativamente la satisfacción del cliente y su competitividad en el mercado.
 
-## Referencias
-
--
